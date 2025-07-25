@@ -1,2 +1,1 @@
-omsething
-something else
+# contents
